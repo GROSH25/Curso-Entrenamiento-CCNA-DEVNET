@@ -1,0 +1,6 @@
+name=(input("Ingrese su Nombre: "))
+lastname=(input("Ingrese su Apellido: "))
+age=(int(input("Ingrese su Edad: ")))
+inst=(input("¿Cual es su Sede?: "))
+print(f'Hola {name} {lastname}, tu edad es {age}')
+print(f'Su sede es la de {inst}')
